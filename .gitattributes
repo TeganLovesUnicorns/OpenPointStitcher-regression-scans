@@ -1,0 +1,2 @@
+# Keep the scans byte for byte: no line-ending conversion.
+*.pts -text
